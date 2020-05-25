@@ -4,4 +4,4 @@ laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in repreh
 voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat 
 non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Agregaré que me gusta platzi y me gusta aprender git
+Recuperé una versión anterior, y ahora la modificaré
