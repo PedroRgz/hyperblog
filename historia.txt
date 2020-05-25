@@ -5,3 +5,6 @@ voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occa
 non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Recuperé una versión anterior, y ahora la modificaré
+
+Aqui probaré el reset  + HEAD :b
+bueno, no lo mandé y agregé otro párrafo
